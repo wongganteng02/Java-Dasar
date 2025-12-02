@@ -1,6 +1,6 @@
 import java.util.Scanner; // Pustaka Bawaan Java Yang Memilki Class Scanner Untuk Input
 
-public class TugasUAS {
+public class Belajar00_TugasUAS { // Nama Class Harus Sama Dengan Nama File
 
   // Method untuk menghitung total harga
   
@@ -9,7 +9,7 @@ public class TugasUAS {
   int jumlah
   ) {
   
-    return harga * jumlah;
+    return harga * jumlah; // Penjumlahan Barang
     
   }
 
