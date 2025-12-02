@@ -1,6 +1,4 @@
-package belajar;
-
-public class forloop {
+public class Belajar11_forloop {
 
   public static void main(String[] args) {
   
