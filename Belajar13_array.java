@@ -1,6 +1,4 @@
-package belajar;
-
-public class array {
+public class Belajar13_array {
 
   public static void main(String[] args) {
     
@@ -15,8 +13,8 @@ public class array {
     System.out.println("Data dari index ke 2 = " + nama[2]);
     System.out.println("Panjang Data String = " + nama.length);
     System.out.println("\n=====================");
-  System.out.println("Mencari Umur Terkecil");
-  System.out.println("=====================\n");
+    System.out.println("Mencari Umur Terkecil");
+    System.out.println("=====================\n");
   
     
     int[] umur = {20, 25, 45, 51, 17, 60, 14};
