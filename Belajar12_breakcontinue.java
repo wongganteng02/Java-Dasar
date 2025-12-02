@@ -1,6 +1,4 @@
-package belajar;
-
-public class breakcontinue {
+public class Belajar12_breakcontinue {
 
   public static void main(String[] args) {
     
@@ -19,7 +17,7 @@ public class breakcontinue {
       
     }
     
-    System.out.println("\n============\n");
+    System.out.println("\n============\n"); // Pwembatas Beda Program
     
     int num = 1;
     
