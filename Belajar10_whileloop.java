@@ -1,6 +1,4 @@
-package belajar;
-
-public class whileloop {
+public class Belajar10_whileloop {
 
   public static void main(String[] args) {
   
@@ -20,7 +18,7 @@ public class whileloop {
     num += 1;
     
     }
-    System.out.println("\n============\n");
+    System.out.println("\n============\n"); // Pembatas Beda Program
    
     int nom = 10;
    
