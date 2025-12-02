@@ -1,6 +1,4 @@
-package kuliah;
-
-import java.util.Scanner;
+import java.util.Scanner; // Pustaka Bawaan Java Yang Memilki Class Scanner Untuk Input
 
 public class TugasUAS {
 
