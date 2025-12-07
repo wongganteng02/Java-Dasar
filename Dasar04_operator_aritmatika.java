@@ -3,6 +3,8 @@ public class Dasar04_operator_aritmatika {
     public static void main(String[] args) {
 
         // Operasi Aritmatika
+        // %d artinya tanda pengambilan nilai bilangan genap (int)
+        // %f artinya tanda pengambilan nilai bilangan desimal (float,double)
 
         int variable1 = 10;
         int variable2 = 5;
