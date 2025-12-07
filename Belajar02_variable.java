@@ -14,7 +14,7 @@ public class Belajar02_variable {
 
         // Membuat sebuah deklarasi
         // Sama seperti membuat variable tapi kosong tanpa nilai
-        int b; // Deklarasi
+        int b; // Deklarasi / Variable kosong
 
         b = 7;
 
